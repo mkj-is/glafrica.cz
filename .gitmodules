@@ -1,0 +1,3 @@
+[submodule "libs/skeleton"]
+	path = libs/skeleton
+	url = https://github.com/dhg/Skeleton.git
