@@ -3,13 +3,33 @@ body {
   text-align: center;
 }
 
-.gray {
-  margin-top: 3%;
-  padding-top: 2%;
-  background-color: #eee;
-  padding-bottom: 4%;
+.feature {
+  background-image: url("images/background.jpg");
+  background-position: 0 0;
+  background-size: 100% auto;
+  background-size: cover;
+}
+
+@media (min-width: 1000px) {
+  .feature > div {
+    min-height: 70vh;
+  }
+}
+
+.feature > div {
+  background: rgba(255, 255, 255, 0.55);
 }
 
 .header {
-  margin-top: 15%;
+  margin-top: 10%;
+  padding-bottom: 6%;
+}
+
+.gray, .white {
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+.gray {
+  background-color: #ddd;
 }
