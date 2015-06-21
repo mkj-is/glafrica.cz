@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="libs/skeleton/css/skeleton.css">
   <link rel="stylesheet" href="custom.css">
   <link rel="icon" type="image/png" href="images/favicon.png">
+  <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
   <script src="//use.typekit.net/qam5mhe.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>
   <script>
@@ -19,6 +20,19 @@
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-63919437-1', 'auto');
     ga('send', 'pageview');
+  </script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $(".slideshow > img:gt(0)").hide();
+      setInterval(function() {
+        $('.slideshow > img:first')
+          .fadeOut(1000)
+          .next()
+          .fadeIn(1000)
+          .end()
+          .appendTo('.slideshow');
+      }, 5000);
+    });
   </script>
 </head>
 <body>
@@ -41,6 +55,16 @@
         <p>Hlavní cíl GL&nbsp;Africa je sběr léčiv vyhrazených pro likvidaci z&nbsp;důvodu blížícího se data expirace a&nbsp;následné využití těchto léčiv v&nbsp;afrických zemích.<!-- Shortages of essential medicines in public health facilities are a major issue in Tanzania that has persisted despite increasing attention to these issues and numerous reform attempts and initiatives. A Twaweza survey conducted in 2013 found that 41% of patients were not able to get the medicines they need directly from a public health facility.--> Získáním léčiv, která již v&nbsp;Evropě nemají cenu a&nbsp;putují do spaloven, jsme schopni vylepšit či zachránit lidské životy na druhé straně světa.</p>
       </section>
     </div>
+  </div>
+  <div class="container">
+    <section class="two-third column">
+      <img class="u-max-full-width img-hidden" src="images/slideshow/slideshow1.jpg" alt="Ilustrační foto" />
+    </section>
+    <section id="slideshow" class="slideshow two-third column">
+      <img class="u-max-full-width" src="images/slideshow/slideshow3.jpg" alt="Ilustrační foto" />
+      <img class="u-max-full-width" src="images/slideshow/slideshow1.jpg" alt="Ilustrační foto" />
+      <img class="u-max-full-width" src="images/slideshow/slideshow2.jpg" alt="Ilustrační foto" />
+    </section>
   </div>
   <div class="white">
     <div class="container">

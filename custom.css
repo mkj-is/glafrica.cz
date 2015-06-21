@@ -30,6 +30,18 @@ body {
   padding-bottom: 4%;
 }
 
+.slideshow > img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.img-hidden {
+  opacity: 0;
+}
+
 .gray {
   background-color: #ddd;
 }
