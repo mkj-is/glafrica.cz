@@ -5,19 +5,18 @@ body {
 
 .feature {
   background-image: url("images/background.jpg");
-  background-position: 0 0;
-  background-size: 100% auto;
+  background-position: center;
   background-size: cover;
 }
 
 @media (min-width: 1000px) {
   .feature > div {
-    min-height: 70vh;
+    min-height: 95vh;
   }
 }
 
 .feature > div {
-  background: rgba(255, 255, 255, 0.55);
+  background: rgba(255, 255, 255, 0.7);
 }
 
 .header {
