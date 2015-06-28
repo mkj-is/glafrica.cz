@@ -30,12 +30,14 @@ body {
   padding-bottom: 4%;
 }
 
-.slideshow > img {
+.slideshow {
+  position: relative;
+}
+
+.gallery {
   position: absolute;
   top: 0px;
   left: 0px;
-  right: 0px;
-  bottom: 0px;
 }
 
 .img-hidden {
