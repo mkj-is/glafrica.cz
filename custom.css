@@ -1,6 +1,7 @@
 
 body {
   text-align: center;
+  font-size: 1.8em;
 }
 
 .feature {
@@ -20,13 +21,13 @@ body {
 }
 
 .header {
-  margin-top: 20%;
+  margin-top: 13%;
   padding-bottom: 6%;
 }
 
 .gray, .white {
   padding-top: 4%;
-  padding-bottom: 1%;
+  padding-bottom: 1.5%;
 }
 
 .slideshow {
@@ -44,7 +45,7 @@ body {
 }
 
 .sponsorship {
-  padding-top: 0.5%;
+  padding-top: 1%;
 }
 
 .gray {
