@@ -6,7 +6,7 @@ Neziskovou organizaci GL Africa tvoří skupina mladých lidí zabývající se 
 
 Hlavní cíl GL Africa je sběr léčiv vyhrazených pro likvidaci z důvodu blížícího se data expirace a následné využití těchto léčiv v afrických zemích. Získáním léčiv, která již v Evropě nemají cenu a putují do spaloven, jsme schopni vylepšit či zachránit lidské životy na druhé straně světa.
 
-## Sponzorství
+## Sponzorství
 
 Všechny aktivity spojené s tímto projektem mají svou finanční náročnost. Velice si proto vážíme jakéhokoli daru, který udrží naši iniciativu v provozu. Jsme rádi jak za dary finanční, tak dary v podobě zboží či služeb, které by usnadnili chod naší organizace. Pokud byste se nám Vy, jako soukromá či právnická osoba, rozhodli jakýmkoli způsobem pomoci, neváhejte se na nás obrátit prostřednictvím kontaktu uvedeného níže.
 
