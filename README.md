@@ -1,6 +1,6 @@
 # GL Africa
 
-Neziskovou organizaci GL Africa tvoří skupina mladých lidí zabývající se humanitární pomocí do rozvojových zemí v Africe. Specializujeme se na projekty s přímým účinkem na „koncové uživatele“ a to skrz vládní či nevládní organizace operující přímo v místě potřebné pomoci. Naším dlouhodobým cílem je zlepšení životní úrovně na africkém kontinentě a rovnoměrný rozvoj světa.
+Neziskovou organizaci GL Africa tvoří skupina mladých lidí zabývající se humanitární pomocí do rozvojových zemí v Africe. Specializujeme se na projekty s přímým účinkem na „koncové uživatele“ a to skrz vládní či nevládní organizace operující přímo v místě potřebné pomoci. Naším dlouhodobým cílem je zlepšení životní úrovně na africkém kontinentě a rovnoměrný rozvoj světa!
 
 ## O nás
 
