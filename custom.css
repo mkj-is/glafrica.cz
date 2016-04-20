@@ -78,3 +78,9 @@ h1 {
 .adoption {
   margin-top: 1em;
 }
+
+ol {
+  text-align: left;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
