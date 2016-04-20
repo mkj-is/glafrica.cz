@@ -79,8 +79,9 @@ h1 {
   margin-top: 1em;
 }
 
-ol {
+ul {
   text-align: left;
   margin-top: 3em;
   margin-bottom: 3em;
+  list-style-position: outside;
 }
