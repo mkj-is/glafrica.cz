@@ -36,6 +36,23 @@ h1 {
   margin-bottom: 4em;
 }
 
+.button.button-primary {
+  background-color: #7B2900;
+  border: none;
+}
+
+.button.button-primary:hover {
+  background-color: #4F1800;
+}
+
+a {
+  color: #7B2900;
+}
+
+a:hover {
+  color: #4F1800;
+}
+
 .feature > div {
   background: rgba(255, 255, 255, 0.1);
 }
