@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>en</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30,20 L60,20 L60,40 L30,20 Z M30,20 L30,40 L0,40 L30,20 Z M30,20 L0,20 L0,0 L30,20 Z M30,20 L30,0 L60,0 L30,20 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="en">
+            <g id="Group">
+                <polygon id="Shape" fill="#00247D" points="0 0 0 40 60 40 60 0"></polygon>
+                <path d="M0,0 L60,40 M60,0 L0,40" id="Shape" stroke="#FFFFFF" stroke-width="6" fill="#000000"></path>
+                <g id="Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Shape"></g>
+                    <path d="M0,0 L60,40 M60,0 L0,40" id="Shape" stroke="#CF142B" stroke-width="4" fill="#000000" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M30,0 L30,40 M0,20 L60,20" id="Shape" stroke="#FFFFFF" stroke-width="10" fill="#000000"></path>
+                <path d="M30,0 L30,40 M0,20 L60,20" id="Shape" stroke="#CF142B" stroke-width="6" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
